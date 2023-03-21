@@ -1,3 +1,3 @@
-require (
-  github.com/go-kit/kit v0.11.0
-)
+module gas-station-on-mars
+
+go 1.18
